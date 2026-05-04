@@ -22,8 +22,8 @@ q$
 2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
 $\large{\frac{B}{B}}
 =
-q + \frac{r}{B}
-$
+q + \frac{r}{B}$
+であり、0 < $\large\fra{r}{B}$ < 1 なので
 
 # 合同式
 
