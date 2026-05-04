@@ -14,6 +14,9 @@ A = qB + r \quad (0 \le r \le B-1)
 ```math 
 A = qB + r
 ```
+```math 
+A = qB + 0
+```
 ```math
 \large\frac{A}{B} = q
 ```
