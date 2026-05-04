@@ -17,8 +17,9 @@ A = qB + r
 ```math
 \large\frac{A}{B} = q
 ```
+よって 
 ```math
-よって \large\left\lceil \frac{A}{B} \right\rceil
+\large\left\lceil \frac{A}{B} \right\rceil
 =
 q
 ```
