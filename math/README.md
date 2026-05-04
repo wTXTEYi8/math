@@ -35,6 +35,7 @@ $\left\lfloor \frac{A+B-1}{B} \right\rfloor$に A = qB + r を代入して
 = 
 q + \frac{r + B - 1}{B}
 ```
+
 第二項の $\large\frac{r + B - 1}{B}$ について
 1. 割り切れる場合 (r = 0のとき)<br>
 $\large\frac{0+B-1}{B} = \large\frac{B-1}{B}$ で商は0<br>
