@@ -19,7 +19,9 @@ q$
 $\large\left\lceil \frac{A}{B} \right\rceil
 =
 q$
-3. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$
+2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$
+$\large{\frac{B}{B}}
+$
 
 # 合同式
 
