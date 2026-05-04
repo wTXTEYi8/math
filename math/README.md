@@ -1,6 +1,4 @@
 # 切り上げ・切り捨てと整数除算
-
-(1)
 ```math
 \left\lceil \frac{B}{A} \right\rceil
 =
@@ -10,9 +8,13 @@
 ```math
 A = qB + r \quad (0 \le r \le B-1)
 ```
-切り上げ
+切り上げ  
 
-\(\left\lceil \frac{A}{B} \right\rceil\)
+
+\[
+\left\lceil \frac{A}{B} \right\rceil
+\]
+
 
 の本来の値は以下のようになります。
 
