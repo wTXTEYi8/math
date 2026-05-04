@@ -5,6 +5,7 @@
 =
 \left\lfloor \frac{A+B-1}{B} \right\rfloor
 ```
+
 整数Aを整数Bで割ったときの商をq、余りをrと定義する。
 ```math
 A = qB + r \quad (0 \le r \le B-1)
