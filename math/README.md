@@ -1,5 +1,5 @@
 # 切り上げ・切り捨てと整数除算
-
+(1)
 ```math
 \left\lceil \frac{A}{B} \right\rceil
 =
