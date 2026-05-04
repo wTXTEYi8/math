@@ -27,7 +27,7 @@ $\large\left\lceil \frac{A}{B} \right\rceil
 =
 q + 1$
 
-$\left\lfloor \frac{A+B-1}{B} \right\rfloor$にA = qB + rを代入して
+$\left\lfloor \frac{A+B-1}{B} \right\rfloor$に A = qB + r を代入して
 # 合同式
 
 a,bを整数，mを正の整数とする。
