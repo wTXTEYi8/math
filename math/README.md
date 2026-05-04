@@ -23,8 +23,10 @@ q$
 $\large{\frac{B}{B}}
 =
 q + \frac{r}{B}$
-であり、0 < $\large\frac{r}{B}$ < 1 なので
-
+であり、0 < $\large\frac{r}{B}$ < 1 なので、切り上げると
+$\large\left\lceil \frac{A}{B} \right\rceil
+=
+q + 1$
 # 合同式
 
 a,bを整数，mを正の整数とする。
