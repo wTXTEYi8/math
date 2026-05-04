@@ -23,7 +23,7 @@ q$
 $\large{\frac{B}{B}}
 =
 q + \frac{r}{B}$
-であり、0 < $\large\fra{r}{B}$ < 1 なので
+であり、0 < $\large\frac{r}{B}$ < 1 なので
 
 # 合同式
 
