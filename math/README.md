@@ -14,7 +14,11 @@ A = qB + r \quad (0 \le r \le B-1)
 1. 割り切れる場合 (r = 0のとき)<br>
 $\large\frac{A}{B}
 =
-q$ なので $\large\left\lceil \frac{A}{B} \right\rceil$ = q
+q$
+なので
+$\large\left\lceil \frac{A}{B} \right\rceil
+=
+q$
 3. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$
 
 # 合同式
