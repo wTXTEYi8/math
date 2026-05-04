@@ -31,7 +31,7 @@ $\left\lfloor \frac{A+B-1}{B} \right\rfloor$に A = qB + r を代入して
 ```math
 \frac{A+B-1}{B}
 = 
-\frac{{qB + r + B - 1}B}
+\frac{qB + r + B - 1}{B}
 = 
 q + \frac{r + B - 1}{B}
 ```
