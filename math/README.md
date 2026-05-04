@@ -19,7 +19,7 @@ A = qB + 0
 ```
 よって 
 ```math
-\large\left\lceil \frac{A}{B} \right\rceil
+\left\lceil \frac{A}{B} \right\rceil
 =
 q
 ```
