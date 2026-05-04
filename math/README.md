@@ -11,8 +11,8 @@
 A = qB + r \quad (0 \le r \le B-1)
 ```
 切り上げ $\left\lceil \frac{A}{B} \right\rceil$ について、
-1. 割り切れる場合(r = 0のとき)
-2. 割り切れない場合$\quad (1 \le r \le B-1 \text{ のとき})$
+1. 割り切れる場合 (r = 0のとき)
+2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$
 
 # 合同式
 
