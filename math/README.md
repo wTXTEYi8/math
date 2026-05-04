@@ -18,11 +18,12 @@ A = qB + r
 \large\frac{A}{B} = q
 ```
 ```math
-\large\left\lceil \frac{A}{B} \right\rceil
+よって \large\left\lceil \frac{A}{B} \right\rceil
 =
 q
 ```
-3. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
+
+2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
 $\large{\frac{A}{B}}
 =
 q + \frac{r}{B}$
@@ -44,7 +45,8 @@ q + \frac{r + B - 1}{B}
 1. 割り切れる場合 (r = 0のとき)<br>
 $\large\frac{0+B-1}{B} = \large\frac{B-1}{B}$ で商は0<br>
 よって $q + 0 = q$
-3. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
+
+2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
 $r + B - 1$ の取りうる範囲は、
 ```math
 1 + B - 1 \;\le\; r + B - 1 \;\le\; (B - 1) + B - 1
