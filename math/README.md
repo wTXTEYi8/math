@@ -8,9 +8,10 @@
 ```math
 A = qB + r \quad (0 \le r \le B-1)
 ```
-切り上げ
-\(\left\lceil \frac{A}{B} \right\rceil\)
+切り上げ  
+\(\left\lceil \frac{A}{B} \right\rceil\)  
 の本来の値は以下のようになります。
+
 
 
 # 合同式
