@@ -21,6 +21,8 @@ $\large\left\lceil \frac{A}{B} \right\rceil
 q$
 2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
 $\large{\frac{B}{B}}
+=
+q + \frac{r}{B}
 $
 
 # 合同式
