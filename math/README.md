@@ -10,7 +10,9 @@
 ```math
 A = qB + r \quad (0 \le r \le B-1)
 ```
-切り上げ $\left\lceil \frac{A}{B} \right\rceil$ の本来の値は以下のようになります。
+切り上げ $\left\lceil \frac{A}{B} \right\rceil$ について、
+1. 割り切れる場合(r = 0のとき)
+2. 割り切れない場合()
 
 # 合同式
 
