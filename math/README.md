@@ -35,7 +35,10 @@ $\left\lfloor \frac{A+B-1}{B} \right\rfloor$に A = qB + r を代入して
 = 
 q + \frac{r + B - 1}{B}
 ```
+第二項の$\frac{r + B - 1}{B}$について
+1. 割り切れる場合 (r = 0のとき)<br>
 
+2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
 # 合同式
 
 a,bを整数，mを正の整数とする。
