@@ -9,9 +9,9 @@
 A = qB + r \quad (0 \le r \le B-1)
 ```
 切り上げ
-
+```math
 \(\left\lceil \frac{A}{B} \right\rceil\)
-
+```
 の本来の値は以下のようになります。
 
 
