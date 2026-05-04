@@ -29,11 +29,11 @@ q + 1$
 
 $\left\lfloor \frac{A+B-1}{B} \right\rfloor$に A = qB + r を代入して
 ```math
-\frac{B}{A+B-1}
+\frac{A+B-1}{B}
 = 
-\frac{B}{qB + r + B - 1}
+\frac{{qB + r + B - 1}B}
 = 
-q + \frac{B}{r + B - 1}
+q + \frac{r + B - 1}{B}
 ```
 
 # 合同式
