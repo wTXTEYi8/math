@@ -15,7 +15,7 @@ A = qB + r \quad (0 \le r \le B-1)
 A = qB + 0
 ```
 ```math
-\large\frac{A}{B} = q
+\frac{A}{B} = q
 ```
 よって 
 ```math
