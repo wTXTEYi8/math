@@ -4,7 +4,6 @@
 \left\lceil \frac{A}{B} \right\rceil
 =
 \left\lfloor \frac{A+B-1}{B} \right\rfloor
-\tag{1}
 ```
 
 整数Aを整数Bで割ったときの商をq、余りをrと定義する。
