@@ -11,10 +11,12 @@ A = qB + r \quad (0 \le r \le B-1)
 ```
 切り上げ $\large{\left\lceil \frac{A}{B} \right\rceil}$ について、
 1. 割り切れる場合 (r = 0のとき)<br>
-$\large\frac{A}{B}
-=
-q$
-なので
+```math 
+A = qB + r
+```
+```math
+\large\frac{A}{B} = q
+```
 $\large\left\lceil \frac{A}{B} \right\rceil
 =
 q$
