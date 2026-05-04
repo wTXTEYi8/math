@@ -4,7 +4,10 @@
 \left\lceil \frac{B}{A} \right\rceil
 =
 \left\lfloor \frac{B}{A+B-1} \right\rfloor
-
+```
+整数Aを整数Bで割ったときの商をq、余りをrと定義する。
+```math
+A = qB + r \quad (0 \le r \le B-1)
 ```
 
 # 合同式
