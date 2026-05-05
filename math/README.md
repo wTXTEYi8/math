@@ -17,7 +17,7 @@ $\frac{A}{B} = q$ なので $\left\lceil \frac{A}{B} \right\rceil$
 $\large{\frac{A}{B}}
 =
 q + \frac{r}{B}$
-であり、0 < $\large\frac{r}{B}$ < 1 なので、切り上げると
+であり、0 < $\large\frac{r}{B}$ < 1 なので
 $\large\left\lceil \frac{A}{B} \right\rceil
 =
 q + 1$
