@@ -37,7 +37,11 @@ q + \frac{r + B - 1}{B}
 
 (3)の第二項 $\large\frac{r + B - 1}{B}$ について
 1. 割り切れる場合 (r = 0のとき)<br>
-$\large\frac{0+B-1}{B} = \large\frac{B-1}{B}$ で商は0<br>
+```math
+\large\frac{0+B-1}{B} = \large\frac{B-1}{B}
+```
+
+で商は0<br>
 よって $q + 0 = q$
 
 2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
