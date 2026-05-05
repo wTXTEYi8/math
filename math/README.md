@@ -11,15 +11,13 @@ A = qB + r \quad (0 \le r \le B-1)
 ```
 切り上げ $\large{\left\lceil \frac{A}{B} \right\rceil}$ について、
 1. 割り切れる場合 (r = 0のとき)
-```math
+$
 \frac{A}{B} = q
-```
-よって 
-```math
+
+$なので
+$
 \left\lceil \frac{A}{B} \right\rceil
-=
-q
-```
+$
 
 2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
 $\large{\frac{A}{B}}
