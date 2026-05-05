@@ -40,8 +40,9 @@ q + \frac{r + B - 1}{B}
 ```math
 \large\frac{0+B-1}{B} = \large\frac{B-1}{B}
 ```
-$\large 0 < \frac{B-1}{B} < \frac{B}{G} = 0$
-で商は0<br>
+```math
+\large 0 < \frac{B-1}{B} < \frac{B}{G} = 0
+```
 よって $q + 0 = q$
 
 2. 割り切れない場合 $\quad (1 \le r \le B-1 \text{ のとき})$<br>
