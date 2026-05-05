@@ -24,7 +24,7 @@ $\large\left\lceil \frac{A}{B} \right\rceil
 =
 q + 1$
 
-$\left\lfloor \frac{A+B-1}{B} \right\rfloor$に A = qB + r を代入して
+(1)に A = qB + r を代入して
 ```math
 \frac{A+B-1}{B}
 = 
