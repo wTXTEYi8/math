@@ -41,7 +41,7 @@ q + \frac{r + B - 1}{B}
 \large\frac{0+B-1}{B} = \large\frac{B-1}{B}
 ```
 ```math
-\large 0 < \frac{B-1}{B} < 1(=\frac{B}{B})
+\large 0 < \frac{B-1}{B} < 1 = \frac{B}{B}
 ```
 よって $q + 0 = q$
 
