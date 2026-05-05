@@ -14,7 +14,7 @@ A = qB + r \quad (0 \le r \le B-1)
 $
 \frac{A}{B} = q
 
-$なので
+$ なので
 $
 \left\lceil \frac{A}{B} \right\rceil
 $
